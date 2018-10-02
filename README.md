@@ -1,5 +1,7 @@
 # instaposter
 ------
+Automated Image Scraper and Poster in Instagram with Selenium
+------
 
 - scrap a image from Unsplash based on keywords
 - generate hashtags relevant to the image
