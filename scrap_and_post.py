@@ -13,7 +13,7 @@ import json
 spoof_extension_id = "djflhoibgkdhkhhcedjiklpkjnoahfmg"
 
 
-data = json.load(open('hustlingstartup.json'))
+data = json.load(open('insta.json'))
 username = data["instauser"]
 password = data["instapw"]
 keyword = data["keywords"]
